@@ -12,10 +12,11 @@ namespace Zadanie1
         {
             //Zad 1
 
-            //string imieNazwisko = "Szymon" + "Kaput";
+            //string imie = "Szymon";
+            //string nazwisko = "Kaput";
             //int wiek = 30;
             //char plec = 'm';
-            //long pesel = 12340987135;
+            //string pesel = "12340987135";
             //long numerPracownika = 2509324094;
 
             //Zad 2
@@ -25,7 +26,7 @@ namespace Zadanie1
             //char litera3 = 'C';
 
             //Console.WriteLine($"{litera3}, {litera2}, {litera1}"); 
-            
+
 
             //Zad 3
 
